@@ -1,3 +1,6 @@
 .container-fluid {
     padding-top: 20px;
 }
+.cat {
+    color: #b700ff;
+}
