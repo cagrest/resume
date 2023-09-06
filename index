@@ -1,11 +1,8 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags -->
+  <head>   
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">    
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="styles.css" />
     <title>Carolina Agrest</title>
@@ -18,17 +15,24 @@
       <div class="row news-item">
           <div class="col-sm-12">
               <h1 class="news-caption-header">Hi! My name is Carolina.</h1>
-              <p>carolina_agrest[at]hotmail[dot]com</p>
-              <div class="media-caption news-caption">I created this page using HTML/CSS and GitHub pages. 
-                I took a programming class during my junior year. The teacher 
-                told us that the class was self-paced, so I got the freedom to learn things that were not in the class repertoire.</div>
-                </br>
+              <p>You can contact me by email <mark>carolina_agrest[at]hotmail[dot]com</mark></p>
+              <div class="media-caption news-caption">I created this page using HTML/CSS and GitHub pages. I took a programming 
+                class during my sophomore year. The teacher told us that the course was self-paced, so I got the freedom to learn 
+                things that were not in the class curriculum.</br>
+                More often, I stay busy with my school and extracurricular work. But you can find me traveling the world, 
+                playing with my dogs, or camping with my family when I have some spare time.
+                <p>&#128578;</p>
+              </div>
+              </br>
                 <h3 class="news-caption-header">Facts about Me</h3>
                 <ul>
-                  <li>Unweighed gpa: 4.8</li>
-                  <li>Weighted gpa: 3.8</li>
-                  <li>Class rank: ?</li>
-                  <li>AP classes 3 > </li>
+                  <li>About me in five words: collaborative, attentive, responsible, consistent, open-minded</li>
+                  <li>Current status: Senior @ SOA</li>
+                  <li>Cumulative UGP GPA: 4.8</li>
+                  <li>Cumulative 4.0 GPA: 3.8</li>                
+                  <li>APs: AP human geography, AP lang, AP lit, AP computer science principles, AP US history</li>
+                  <li>Honors: English 1 H, English 2 H, biology H, Chemistry 1 H, Psychology H, Precalculus H, Algebra 2 H, Spanish 3 H</li>
+                  <li>Currently taking: senior thesis, Anatomy and physiology H, DE spanish 101/102, AP gov, AP statistics</li>
                 </ul>               
           </div>
       </div>
@@ -43,13 +47,14 @@
                 <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image0.jpeg"/></div>
             </div>
             <div class="col-sm-8">
-                <h5 class="news-caption-header">I started traveling when I was two months old. / Cross-cultural experience /</h5>
-                <div class="media-caption news-caption">Travel
-                  I speak several languages. 
-                  Fluent in English, Russian, 
-                  Italian 
-                  German - in progress
-                  Spanish</div>               
+                <h5 class="news-caption-header">I started traveling when I was two months old.</h5>
+                <p class="cat"><em><b>Categories:</b> Cross-cultural experience</em></p>
+                <div class="media-caption news-caption">Tying in with my love of travel and culture is my interest in linguistics. I am fluent in English and Russian, 
+                  proficient in Italian and German, 
+                  and in progress with Spanish. Below is a list of countries I have been fortunate enough to visit at least once. When talking about my travels, 
+                  I always care to preface the intensity with which I approach new cities. I make sure to sightsee common tourist spots and explore smaller towns, 
+                  cathedrals, museums, and theatres. Italy, Germany, France, Austria, Switzerland, Poland, Denmark, Finland, Croatia, Slovakia, Slovenia, Estonia, 
+                  Russia, Canada, Australia, Belize, Bosnia and Herzegovina, Costa Rica, Armenia, Georgia, Azerbaijan, and Sweden.</div>               
             </div>
         </div>
     </div>
@@ -61,43 +66,33 @@
           </div>
           <div class="col-sm-8">
               <h5 class="news-caption-header">I managed a wrestling team.</h5>
-              <div class="media-caption news-caption">Wrestling team manager: During my junior year of high school I managed the academic magnet 
-                wrestling team, where I spent 76 hours from both practices and matches. My job was to ensure that the team functioned well and
-                 matches went smoothly. During most events, there was one match on one mat at a time and a total of 2-3 schools were present, 
-                 however, there were also invitationals which meant more than 10 teams and 3-4 mats had matches going on at the same time. 
-                 I was in charge of tracking our teams' results (as well as their future competitors' results for comparisons) on brackets 
-                 and making sure each member knew when it was almost their turn and when they should start warming up. In common matches, I 
-                 sat close to the mat with a scorebook to track each point earned and lost. In both invitationals and basic matches, I was 
-                 often also asked to video record certain matches and it was important for me to show my support for each participant. 
-                 During practices, my job was to keep track of everyone's weight, results, and specific points earned/lost from everyone's 
-                 matches throughout the season, as well as help with drills and keeping time.</div>               
+              <p class="cat"><em><b>Categories:</b> Leadership</em></p>
+              <div class="media-caption news-caption">During my junior year of high school, I managed the academic magnet wrestling team, spending 76 hours on both practices and matches. 
+                My job was to ensure the team functioned well and matches went smoothly. During most events, there was one match on one mat at a time, 
+                and 2-3 schools were present. However, there were also invitationals, which meant more than ten teams and 3-4 mats had matches simultaneously. 
+                I was in charge of tracking our teams' results (and their future competitors' results for comparisons) on brackets and ensuring each member knew 
+                when it was almost their turn and when they should start warming up. In standard matches, I sat close to the mat with a scorebook to track each 
+                point earned and lost. In both invitationals and basic matches, I was often asked to video record certain matches, and it was important to show my 
+                support for each participant. During practices, my job was to keep track of everyone's weight, results, and specific points earned/lost from everyone's 
+                matches throughout the season, as well as help with drills and keeping time.
+                </div>               
           </div>
 
       </div>
   </div>
 </br>
-  <div class="container news-section">
-    <div class="row news-item">
-        <div class="col-sm-3">
-            <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image7.jpeg"/></div>
-        </div>
-        <div class="col-sm-8">
-            <h5 class="news-caption-header">I've played musical instruments for fundraising.</h5>
-            <div class="media-caption news-caption">Ukulele, guitar, violin.</div>               
-        </div>
-    </div>
-</div>
-</br>
+
 <div class="container news-section">
   <div class="row news-item">
       <div class="col-sm-3">
-          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/304x236.png"/></div>
+          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image8.jpg"/></div>
       </div>
       <div class="col-sm-8">
-          <h5 class="news-caption-header">Dance.</h5>
-          <div class="media-caption news-caption">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. 
-            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. 
-            Donec lacinia congue felis in faucibus.</div>               
+          <h5 class="news-caption-header">I have been dancing for thirteen years.</h5>
+          <p class="cat"><em><b>Categories: </b>Athletics, Extracurricular</em></p>
+          <div class="media-caption news-caption">I have been dancing for 13 years, during which I’ve explored the styles of ballet, hip-hop, and contemporary. 
+            My passion for dance stems from being exposed to classical ballet in St. Petersburg, Russia, at a young age. 
+            Since then, I’ve made efforts to attend ballets, operas, and symphony concerts during all of my travels.</div>               
       </div>
   </div>
 </div>      
@@ -105,13 +100,98 @@
 <div class="container news-section">
   <div class="row news-item">
       <div class="col-sm-3">
-          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/304x236.png"/></div>
+          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image10.jpeg"/></div>
       </div>
       <div class="col-sm-8">
-          <h5 class="news-caption-header">Orchestra.</h5>
-          <div class="media-caption news-caption">region and state here,
-            quintet experience here,
-            masterclasses here</div>               
+          <h5 class="news-caption-header">I've been playing violin for ten years.</h5>
+          <p class="cat"><em><b>Categories:</b> Extracurricular, Leadership</em></p>
+          <div class="media-caption news-caption">I’ve played violin for ten years and participated in regional and All-State Orchestras since 2018. 
+            I came to the School of the Arts for violin in sixth grade and successfully auditioned for SOA’s High school Symphony orchestra, which I played in until 
+            I moved up to Sinfonietta Junior year. 
+            At the end of my Junior year, I traveled to Orlando, Florida, as a section leader of the second violins of the Sinfonietta ensemble. 
+            We participated in a National competition called the NOF (National Orchestra Festival) and won grand champions.
+             I was a part of the District Orchestra from 2015 to 2018, where I became concertmaster ( the leading first violinist that all orchestra sections follow). 
+            From 2021 - 2023, I participated in a chamber music Charleston program(CMC), alternating between first and second violin parts.
+            In March of 2022, as a member of the quintet, I participated in a masterclass conducted by the world-renowned Midori Goto.
+            At the end of March 2022, my quintet participated in USC Chamber Music Day, where we received two individual two-hour-long coachings 
+            and a masterclass from USC staff and members of the Parker Quartet.
+            I grew in a new way, mainly when I played my first violin, because of the soloistic part and the type of leadership it takes to keep 
+            the five-person ensemble together. Communication is unique when it comes to chamber music. In rehearsals, you must comment on everyones 
+            playing to improve the group’s sound, and this has to be done in a polite, direct, and effective manner so the players can understand 
+            your point quickly and incorporate it into their playing.</div>               
+      </div>
+  </div>
+</div>
+</br>
+
+<div class="container news-section">
+  <div class="row news-item">
+      <div class="col-sm-3">
+          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image4.jpeg"/></div>
+      </div>
+      <div class="col-sm-8">
+          <h5 class="news-caption-header">I love to cook for any occasion.</h5>
+          <p class="cat"><em><b>Categories:</b> Volunteering and community, Extracurricular, Work experience</em></p>
+          
+          <div class="media-caption news-caption">Cooking: How could one love travel and not mention food. 
+            True Italian cuisine has always been my favorite. After experiencing the thin flimsy pizza, pasta like spaghetti 
+            alle vongole and Nero di sepia, salads, and prosciutto there was no way for me to live at home without it and stay satisfied. 
+            So my mom and I would buy all sorts of Italian cookbooks to replicate my favorite meals and more. It wasn't long before 
+            we started experimenting with food from other cultures. Now one typical lunch I bring to school is onigiri, sauerkraut, 
+            Caprese salad, and fruits (all homemade).</div>               
+      </div>
+  </div>
+</div>
+</br>
+
+<div class="container news-section">
+  <div class="row news-item">
+      <div class="col-sm-3">
+          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image11.jpeg"/></div>
+      </div>
+      <div class="col-sm-8">
+          <h5 class="news-caption-header">I help teach English.</h5>
+          <p class="cat"><em><b>Categories:</b> Volunteering and community, Cross-cultural experience, Work experience</em></p>
+          <div class="media-caption news-caption">A nonprofit organization where I volunteer to teach Ukrainian kids the English language online. After going through an interview, two training zooms, 
+            and two assessments, volunteers are matched with children who share similar interests and are either a student in Ukraine or a student in a neighboring 
+            country that has had to evacuate from Ukraine. It's the volunteers' job to set up meetings and lead the conversations. I learned English as a second 
+            language and had to take extra classes and evaluations throughout elementary school to track my progress, so I see the value of the English language 
+            on an international scale. Expressing my support for Ukraine in my now strongest subject has been a very fulfilling opportunity.</div>               
+      </div>
+  </div>
+</div>
+</br>
+
+<div class="container news-section">
+  <div class="row news-item">
+      <div class="col-sm-3">
+          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image9.jpeg"/></div>
+      </div>
+      <div class="col-sm-8">
+          <h5 class="news-caption-header">Pet's helper volunteer.</h5>
+          <p class="cat"><em><b>Categories:</b> Volunteering and community, Work experience</em></p>
+          <div class="media-caption news-caption">In June of 2019, I traveled to Armenia for a month, where I roadtriped through several cities, including Yerevan, 
+            Tatev, Geghard, Karahunj, 
+            Dilijan, and more. Quickly into this trip, I noticed many homeless dogs of all breeds and ages, both in major cities and more rural towns. 
+            I've always felt devastated by animal cruelty, but this trip sparked my interest in helping, so I started volunteering for pet helpers on Johns Island.</div>               
+      </div>
+  </div>
+</div>
+
+</br>
+<div class="container news-section">
+  <div class="row news-item">
+      <div class="col-sm-3">
+          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image7.jpeg"/></div>
+      </div>
+      <div class="col-sm-8">
+          <h5 class="news-caption-header">I've played musical instruments for fundraising.</h5>
+          <p class="cat"><em><b>Categories:</b> Volunteering and community, Work experience</em></p>
+          <div class="media-caption news-caption">In my seventh grade English class, we read Linda Park's novel, A Long Walk To Water. 
+            After reading this book, I learned about an organization called Water Mission. A non-profit organization that aims to provide sustainable, 
+            safe water solutions to developing nations. I needed to figure out a way to help as a 12-year-old, and my solution was busking with my violin 
+            (playing on the streets for donations) in downtown.
+            I raised over $ 1,000 in two weeks.</div>               
       </div>
   </div>
 </div>
@@ -123,93 +203,21 @@
       </div>
       <div class="col-sm-8">
           <h5 class="news-caption-header">I participated in organizing a Halloween performance for kids.</h5>
-          <div class="media-caption news-caption">I participated in organizing a Halloween performance for kids.</h5>
-            Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. 
-            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. 
-            Donec lacinia congue felis in faucibus.</div>               
+          <p class="cat"><em><b>Categories: </b>Volunteering and community, Extracurricular, Work experience, Leadership</em></p>
+          <div class="media-caption news-caption">The first Halloween year during COVID-19, in 2021, my family and I decided to do something new for 
+            the kids in my neighborhood. We live on a street with a cul-de-sac and broken street lights, so we rarely had trick-or-treaters turn our way. 
+            My mom and I decided to build a stage, set up lights and a fog machine, and play Halloween music over a speaker when I wanted to take a break 
+            from playing songs on my violin. 
+            Kids of all ages enjoyed our setup, and it equally entertained parents. Still making sure we followed COVID precautions, of course, it was a 
+            great way to keep the holiday for children while adjusting for everyone's safety.
+            </div>               
       </div>
   </div>
 </div>
 </br>
-<div class="container news-section">
-  <div class="row news-item">
-      <div class="col-sm-3">
-          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/image4.jpeg"/></div>
-      </div>
-      <div class="col-sm-8">
-          <h5 class="news-caption-header">I love to cook for any occasion.</h5>
-          <div class="media-caption news-caption">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. 
-            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. 
-            Donec lacinia congue felis in faucibus.</div>               
-      </div>
-  </div>
-</div>
-</br>
-<div class="container news-section">
-  <div class="row news-item">
-      <div class="col-sm-3">
-          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/304x236.png"/></div>
-      </div>
-      <div class="col-sm-8">
-          <h5 class="news-caption-header">Water bake sale.</h5>
-          <div class="media-caption news-caption">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. 
-            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. 
-            Donec lacinia congue felis in faucibus.</div>               
-      </div>
-  </div>
-</div>
-</br>
-<div class="container news-section">
-  <div class="row news-item">
-      <div class="col-sm-3">
-          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/304x236.png"/></div>
-      </div>
-      <div class="col-sm-8">
-          <h5 class="news-caption-header">Help learn languages.</h5>
-          <div class="media-caption news-caption">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. 
-            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. 
-            Donec lacinia congue felis in faucibus.</div>               
-      </div>
-  </div>
-</div>
-</br>
-<div class="container news-section">
-  <div class="row news-item">
-      <div class="col-sm-3">
-          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/304x236.png"/></div>
-      </div>
-      <div class="col-sm-8">
-          <h5 class="news-caption-header">Volunteering for Unraine .</h5>
-          <div class="media-caption news-caption">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. 
-            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. 
-            Donec lacinia congue felis in faucibus.</div>               
-      </div>
-  </div>
-</div>
-</br>
-<div class="container news-section">
-  <div class="row news-item">
-      <div class="col-sm-3">
-          <div class="media-photo news-photo"><img class="img-fluid" alt="Generic placeholder image" src="images/304x236.png"/></div>
-      </div>
-      <div class="col-sm-8">
-          <h5 class="news-caption-header">Pet helpers</h5>
-          <div class="media-caption news-caption">In June of 2019 I traveled to Armenia for a month where I roadtriped through 
-            several cities including Yerevan, Tatev, Geghard, Karahunj, Dilijan, and more. Quickly into this trip I noticed the extreme number 
-            of homeless dogs of all breeds and ages both in major cities and more rural towns. I always had sympathy for animals in tough 
-            situations but this trip directly sparked my interest in helping which is why I started volunteering for pet helpers on Johns Island.</div>               
-      </div>
-  </div>
-</div>
-
-
-
-
 
 </div>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
